@@ -59,7 +59,7 @@ body {
   cursor:cell;
 }
 
-a{
+a {
   text-decoration: none;
   color:white;
   width:50px;
@@ -75,7 +75,7 @@ a{
   text-align: center;
 }
 
-.form_input:hover{
+.form_input:hover {
   cursor:cell;
 }
 
